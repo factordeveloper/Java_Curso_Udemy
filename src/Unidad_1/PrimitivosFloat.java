@@ -1,3 +1,5 @@
+package Unidad_1;
+
 public class PrimitivosFloat {
 
     static int varStatic;

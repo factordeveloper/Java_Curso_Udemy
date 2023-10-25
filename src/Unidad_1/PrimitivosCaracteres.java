@@ -1,3 +1,5 @@
+package Unidad_1;
+
 public class PrimitivosCaracteres {
     public static void main(String[] args) {
       char caracter = '@';

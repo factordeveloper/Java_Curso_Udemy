@@ -1,3 +1,5 @@
+package Unidad_1;
+
 public class PrimitivosEnteros {
     public static void main(String[] args) {
         System.out.println("///////////////////////");
