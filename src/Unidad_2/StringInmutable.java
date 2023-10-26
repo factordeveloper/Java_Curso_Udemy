@@ -29,7 +29,7 @@ public class StringInmutable {
         resultado.replace("a", "A");
         System.out.println("resultado = " + resultado);
         /// resultado = Programacion JAVAAndres Guzman
-        
+
         String resultado3 = resultado.replace("a", "A");
         System.out.println("resultado3 = " + resultado3);
         /// resultado3 = ProgrAmAcion JAVAAndres GuzmAn
